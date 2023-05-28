@@ -1,0 +1,11 @@
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\ColorCircle\ColorCircle\bin\Debug\ColorCircle.exe.config
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\ColorCircle\ColorCircle\bin\Debug\ColorCircle.exe
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\ColorCircle\ColorCircle\bin\Debug\ColorCircle.pdb
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\ColorCircle\ColorCircle\obj\Debug\ColorCircle.csproj.AssemblyReference.cache
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\ColorCircle\ColorCircle\obj\Debug\ColorCircle.csproj.SuggestedBindingRedirects.cache
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\ColorCircle\ColorCircle\obj\Debug\ColorCircle.Properties.Resources.resources
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\ColorCircle\ColorCircle\obj\Debug\ColorCircle.csproj.GenerateResource.cache
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\ColorCircle\ColorCircle\obj\Debug\ColorCircle.csproj.CoreCompileInputs.cache
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\ColorCircle\ColorCircle\obj\Debug\ColorCircle.exe
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\ColorCircle\ColorCircle\obj\Debug\ColorCircle.pdb
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\ColorCircle\ColorCircle\obj\Debug\ColorCircle.Form1.resources

@@ -1,0 +1,12 @@
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\Kasa\Kasa\obj\Debug\Kasa.csproj.AssemblyReference.cache
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\Kasa\Kasa\obj\Debug\Kasa.csproj.SuggestedBindingRedirects.cache
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\Kasa\Kasa\obj\Debug\Kasa.Form1.resources
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\Kasa\Kasa\obj\Debug\Kasa.Properties.Resources.resources
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\Kasa\Kasa\obj\Debug\Kasa.csproj.GenerateResource.cache
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\Kasa\Kasa\obj\Debug\Kasa.csproj.CoreCompileInputs.cache
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\Kasa\Kasa\obj\Debug\Kasa.AddProduct.resources
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\Kasa\Kasa\bin\Debug\Kasa.exe.config
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\Kasa\Kasa\bin\Debug\Kasa.exe
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\Kasa\Kasa\bin\Debug\Kasa.pdb
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\Kasa\Kasa\obj\Debug\Kasa.exe
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\Kasa\Kasa\obj\Debug\Kasa.pdb

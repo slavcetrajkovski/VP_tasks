@@ -1,0 +1,11 @@
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\BallsChaos\BallsChaos\bin\Debug\BallsChaos.exe.config
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\BallsChaos\BallsChaos\bin\Debug\BallsChaos.exe
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\BallsChaos\BallsChaos\bin\Debug\BallsChaos.pdb
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\BallsChaos\BallsChaos\obj\Debug\BallsChaos.csproj.AssemblyReference.cache
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\BallsChaos\BallsChaos\obj\Debug\BallsChaos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\BallsChaos\BallsChaos\obj\Debug\BallsChaos.Form1.resources
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\BallsChaos\BallsChaos\obj\Debug\BallsChaos.Properties.Resources.resources
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\BallsChaos\BallsChaos\obj\Debug\BallsChaos.csproj.GenerateResource.cache
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\BallsChaos\BallsChaos\obj\Debug\BallsChaos.csproj.CoreCompileInputs.cache
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\BallsChaos\BallsChaos\obj\Debug\BallsChaos.exe
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\BallsChaos\BallsChaos\obj\Debug\BallsChaos.pdb

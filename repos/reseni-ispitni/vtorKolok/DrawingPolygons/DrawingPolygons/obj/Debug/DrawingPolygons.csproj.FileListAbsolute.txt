@@ -1,0 +1,11 @@
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\DrawingPolygons\DrawingPolygons\bin\Debug\DrawingPolygons.exe.config
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\DrawingPolygons\DrawingPolygons\bin\Debug\DrawingPolygons.exe
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\DrawingPolygons\DrawingPolygons\bin\Debug\DrawingPolygons.pdb
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\DrawingPolygons\DrawingPolygons\obj\Debug\DrawingPolygons.csproj.AssemblyReference.cache
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\DrawingPolygons\DrawingPolygons\obj\Debug\DrawingPolygons.csproj.SuggestedBindingRedirects.cache
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\DrawingPolygons\DrawingPolygons\obj\Debug\DrawingPolygons.Properties.Resources.resources
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\DrawingPolygons\DrawingPolygons\obj\Debug\DrawingPolygons.csproj.GenerateResource.cache
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\DrawingPolygons\DrawingPolygons\obj\Debug\DrawingPolygons.csproj.CoreCompileInputs.cache
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\DrawingPolygons\DrawingPolygons\obj\Debug\DrawingPolygons.exe
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\DrawingPolygons\DrawingPolygons\obj\Debug\DrawingPolygons.pdb
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\DrawingPolygons\DrawingPolygons\obj\Debug\DrawingPolygons.Form1.resources

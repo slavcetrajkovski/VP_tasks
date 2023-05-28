@@ -1,0 +1,10 @@
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\BallsInHoles\BallsInHoles\bin\Debug\BallsInHoles.exe.config
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\BallsInHoles\BallsInHoles\bin\Debug\BallsInHoles.exe
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\BallsInHoles\BallsInHoles\bin\Debug\BallsInHoles.pdb
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\BallsInHoles\BallsInHoles\obj\Debug\BallsInHoles.csproj.AssemblyReference.cache
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\BallsInHoles\BallsInHoles\obj\Debug\BallsInHoles.csproj.SuggestedBindingRedirects.cache
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\BallsInHoles\BallsInHoles\obj\Debug\BallsInHoles.Properties.Resources.resources
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\BallsInHoles\BallsInHoles\obj\Debug\BallsInHoles.csproj.GenerateResource.cache
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\BallsInHoles\BallsInHoles\obj\Debug\BallsInHoles.csproj.CoreCompileInputs.cache
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\BallsInHoles\BallsInHoles\obj\Debug\BallsInHoles.exe
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\BallsInHoles\BallsInHoles\obj\Debug\BallsInHoles.pdb

@@ -1,0 +1,13 @@
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\Aerodrom\Aerodrom\bin\Debug\Aerodrom.exe.config
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\Aerodrom\Aerodrom\bin\Debug\Aerodrom.exe
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\Aerodrom\Aerodrom\bin\Debug\Aerodrom.pdb
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\Aerodrom\Aerodrom\obj\Debug\Aerodrom.csproj.AssemblyReference.cache
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\Aerodrom\Aerodrom\obj\Debug\Aerodrom.csproj.SuggestedBindingRedirects.cache
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\Aerodrom\Aerodrom\obj\Debug\Aerodrom.AddAirport.resources
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\Aerodrom\Aerodrom\obj\Debug\Aerodrom.AddDestination.resources
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\Aerodrom\Aerodrom\obj\Debug\Aerodrom.Form1.resources
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\Aerodrom\Aerodrom\obj\Debug\Aerodrom.Properties.Resources.resources
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\Aerodrom\Aerodrom\obj\Debug\Aerodrom.csproj.GenerateResource.cache
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\Aerodrom\Aerodrom\obj\Debug\Aerodrom.csproj.CoreCompileInputs.cache
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\Aerodrom\Aerodrom\obj\Debug\Aerodrom.exe
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\Aerodrom\Aerodrom\obj\Debug\Aerodrom.pdb

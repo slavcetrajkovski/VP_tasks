@@ -1,0 +1,12 @@
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\TvProgram\TvProgram\bin\Debug\TvProgram.exe.config
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\TvProgram\TvProgram\bin\Debug\TvProgram.exe
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\TvProgram\TvProgram\bin\Debug\TvProgram.pdb
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\TvProgram\TvProgram\obj\Debug\TvProgram.csproj.AssemblyReference.cache
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\TvProgram\TvProgram\obj\Debug\TvProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\TvProgram\TvProgram\obj\Debug\TvProgram.Form1.resources
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\TvProgram\TvProgram\obj\Debug\TvProgram.NewTv.resources
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\TvProgram\TvProgram\obj\Debug\TvProgram.Properties.Resources.resources
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\TvProgram\TvProgram\obj\Debug\TvProgram.csproj.GenerateResource.cache
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\TvProgram\TvProgram\obj\Debug\TvProgram.csproj.CoreCompileInputs.cache
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\TvProgram\TvProgram\obj\Debug\TvProgram.exe
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\TvProgram\TvProgram\obj\Debug\TvProgram.pdb

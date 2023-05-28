@@ -1,0 +1,11 @@
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\DrawingObjects2\DrawingObjects2\bin\Debug\DrawingObjects2.exe.config
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\DrawingObjects2\DrawingObjects2\bin\Debug\DrawingObjects2.exe
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\DrawingObjects2\DrawingObjects2\bin\Debug\DrawingObjects2.pdb
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\DrawingObjects2\DrawingObjects2\obj\Debug\DrawingObjects2.csproj.AssemblyReference.cache
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\DrawingObjects2\DrawingObjects2\obj\Debug\DrawingObjects2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\DrawingObjects2\DrawingObjects2\obj\Debug\DrawingObjects2.Form1.resources
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\DrawingObjects2\DrawingObjects2\obj\Debug\DrawingObjects2.Properties.Resources.resources
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\DrawingObjects2\DrawingObjects2\obj\Debug\DrawingObjects2.csproj.GenerateResource.cache
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\DrawingObjects2\DrawingObjects2\obj\Debug\DrawingObjects2.csproj.CoreCompileInputs.cache
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\DrawingObjects2\DrawingObjects2\obj\Debug\DrawingObjects2.exe
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\DrawingObjects2\DrawingObjects2\obj\Debug\DrawingObjects2.pdb

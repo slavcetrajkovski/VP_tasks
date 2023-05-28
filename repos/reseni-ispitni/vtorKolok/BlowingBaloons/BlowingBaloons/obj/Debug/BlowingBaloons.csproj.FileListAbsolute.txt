@@ -1,0 +1,11 @@
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\BlowingBaloons\BlowingBaloons\bin\Debug\BlowingBaloons.exe.config
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\BlowingBaloons\BlowingBaloons\bin\Debug\BlowingBaloons.exe
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\BlowingBaloons\BlowingBaloons\bin\Debug\BlowingBaloons.pdb
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\BlowingBaloons\BlowingBaloons\obj\Debug\BlowingBaloons.csproj.AssemblyReference.cache
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\BlowingBaloons\BlowingBaloons\obj\Debug\BlowingBaloons.csproj.SuggestedBindingRedirects.cache
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\BlowingBaloons\BlowingBaloons\obj\Debug\BlowingBaloons.Form1.resources
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\BlowingBaloons\BlowingBaloons\obj\Debug\BlowingBaloons.Properties.Resources.resources
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\BlowingBaloons\BlowingBaloons\obj\Debug\BlowingBaloons.csproj.GenerateResource.cache
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\BlowingBaloons\BlowingBaloons\obj\Debug\BlowingBaloons.csproj.CoreCompileInputs.cache
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\BlowingBaloons\BlowingBaloons\obj\Debug\BlowingBaloons.exe
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\BlowingBaloons\BlowingBaloons\obj\Debug\BlowingBaloons.pdb

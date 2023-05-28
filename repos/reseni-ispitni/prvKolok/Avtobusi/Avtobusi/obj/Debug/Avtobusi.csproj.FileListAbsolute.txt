@@ -1,0 +1,13 @@
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\Avtobusi\Avtobusi\bin\Debug\Avtobusi.exe.config
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\Avtobusi\Avtobusi\bin\Debug\Avtobusi.exe
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\Avtobusi\Avtobusi\bin\Debug\Avtobusi.pdb
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\Avtobusi\Avtobusi\obj\Debug\Avtobusi.csproj.AssemblyReference.cache
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\Avtobusi\Avtobusi\obj\Debug\Avtobusi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\Avtobusi\Avtobusi\obj\Debug\Avtobusi.Form1.resources
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\Avtobusi\Avtobusi\obj\Debug\Avtobusi.NewBus.resources
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\Avtobusi\Avtobusi\obj\Debug\Avtobusi.Properties.Resources.resources
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\Avtobusi\Avtobusi\obj\Debug\Avtobusi.csproj.GenerateResource.cache
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\Avtobusi\Avtobusi\obj\Debug\Avtobusi.csproj.CoreCompileInputs.cache
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\Avtobusi\Avtobusi\obj\Debug\Avtobusi.exe
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\Avtobusi\Avtobusi\obj\Debug\Avtobusi.pdb
+C:\Users\Slavcho\source\repos\ISPITNI_RESENI\Avtobusi\Avtobusi\obj\Debug\Avtobusi.AddLine.resources

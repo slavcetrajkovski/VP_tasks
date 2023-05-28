@@ -1,0 +1,17 @@
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\DrawObjects\DrawObjects\bin\Debug\net6.0-windows\DrawObjects.exe
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\DrawObjects\DrawObjects\bin\Debug\net6.0-windows\DrawObjects.deps.json
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\DrawObjects\DrawObjects\bin\Debug\net6.0-windows\DrawObjects.runtimeconfig.json
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\DrawObjects\DrawObjects\bin\Debug\net6.0-windows\DrawObjects.dll
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\DrawObjects\DrawObjects\bin\Debug\net6.0-windows\DrawObjects.pdb
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\DrawObjects\DrawObjects\obj\Debug\net6.0-windows\DrawObjects.csproj.AssemblyReference.cache
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\DrawObjects\DrawObjects\obj\Debug\net6.0-windows\DrawObjects.Form1.resources
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\DrawObjects\DrawObjects\obj\Debug\net6.0-windows\DrawObjects.csproj.GenerateResource.cache
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\DrawObjects\DrawObjects\obj\Debug\net6.0-windows\DrawObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\DrawObjects\DrawObjects\obj\Debug\net6.0-windows\DrawObjects.AssemblyInfoInputs.cache
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\DrawObjects\DrawObjects\obj\Debug\net6.0-windows\DrawObjects.AssemblyInfo.cs
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\DrawObjects\DrawObjects\obj\Debug\net6.0-windows\DrawObjects.csproj.CoreCompileInputs.cache
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\DrawObjects\DrawObjects\obj\Debug\net6.0-windows\DrawObjects.dll
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\DrawObjects\DrawObjects\obj\Debug\net6.0-windows\refint\DrawObjects.dll
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\DrawObjects\DrawObjects\obj\Debug\net6.0-windows\DrawObjects.pdb
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\DrawObjects\DrawObjects\obj\Debug\net6.0-windows\DrawObjects.genruntimeconfig.cache
+C:\Users\Slavcho\source\repos\reseni-ispitni\vtorKolok\DrawObjects\DrawObjects\obj\Debug\net6.0-windows\ref\DrawObjects.dll
